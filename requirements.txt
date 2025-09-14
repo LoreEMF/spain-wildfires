@@ -1,0 +1,10 @@
+streamlit>=1.36
+pandas>=2.2
+numpy>=1.26
+plotly>=5.22
+folium>=0.15
+streamlit-folium>=0.21
+pyarrow>=15.0        # para read_parquet / to_parquet desde pandas
+nbformat>=5.10       # manipulación de notebooks (.ipynb)
+jupyterlab>=4.2      # abrir/editar cuadernos (puedes usar jupyter en lugar de lab si prefieres)
+ipykernel>=6.29
