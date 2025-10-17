@@ -198,10 +198,8 @@ Y referencia aquí, por ejemplo:
 
 ## 🧑‍💻 Autores
 
-* **Lorena Elena Mohanu** — [GitHub](#) · [LinkedIn](#)
-* **José Ancízar Arbeláez Nieto** — [GitHub](#) · [LinkedIn](#)
-
-*(Sustituye `#` por tus perfiles si quieres enlazarlos.)*
+* **Lorena Elena Mohanu**
+* **José Ancízar Arbeláez Nieto**
 
 ---
 
